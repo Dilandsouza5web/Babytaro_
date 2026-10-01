@@ -1,0 +1,19 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="159" height="159" viewBox="0 0 159 159" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon">
+<circle id="Ellipse 6" cx="79.5" cy="79.5" r="79.5" fill="#A16DD9"/>
+<g id="Mask group">
+<mask id="mask0_0_54" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="51" y="54" width="58" height="52">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" d="M82.3333 96H55.6667C54.9594 96 54.2811 95.7191 53.781 95.219C53.281 94.7189 53 94.0406 53 93.3333V58.6667C53 57.9594 53.281 57.2811 53.781 56.781C54.2811 56.281 54.9594 56 55.6667 56H103.667C104.374 56 105.052 56.281 105.552 56.781C106.052 57.2811 106.333 57.9594 106.333 58.6667V93.3333C106.333 94.0406 106.052 94.7189 105.552 95.219C105.052 95.7191 104.374 96 103.667 96H93M63.6667 66.6667H95.6667M63.6667 76H71.6667M63.6667 85.3333H69" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M87.6667 92C89.7884 92 91.8232 91.1571 93.3235 89.6569C94.8238 88.1566 95.6667 86.1217 95.6667 84C95.6667 81.8783 94.8238 79.8434 93.3235 78.3431C91.8232 76.8429 89.7884 76 87.6667 76C85.5449 76 83.5101 76.8429 82.0098 78.3431C80.5095 79.8434 79.6667 81.8783 79.6667 84C79.6667 86.1217 80.5095 88.1566 82.0098 89.6569C83.5101 91.1571 85.5449 92 87.6667 92Z" fill="white" stroke="white" stroke-width="4"/>
+<path id="Vector_3" d="M87.6667 101.333L93 104V89.9626C93 89.9626 91.48 92 87.6667 92C83.8533 92 82.3333 90 82.3333 90V104L87.6667 101.333Z" fill="white" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_0_54)">
+<path id="Vector_4" d="M47.6667 48H111.667V112H47.6667V48Z" fill="white"/>
+</g>
+</g>
+</g>
+</svg>
